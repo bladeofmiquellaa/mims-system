@@ -66,7 +66,6 @@ class UserController extends Controller
 
 }
     public function signup(Request $request){
-
        $rules=
             [
             'firstname' => 'required | min:3',
@@ -122,6 +121,7 @@ class UserController extends Controller
         }
         elseif ($request->type== 'doctor')   {
             $formFields['type']='doctor';
+
             $user = User::create($formFields);
             auth()->login($user);
             Access_token::where('user_id',Auth::user()->id)->delete();
