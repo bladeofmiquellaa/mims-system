@@ -1,5 +1,6 @@
 # Medical Images Management System 
-https://drive.google.com/file/d/1p6qk8lWDTXF3y_0JfCOnrKai1RmFIr3K/view?usp=sharing
+
+Details: https://drive.google.com/file/d/1p6qk8lWDTXF3y_0JfCOnrKai1RmFIr3K/view?usp=sharing
 
 ## Usage
 
