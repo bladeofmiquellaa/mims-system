@@ -1,9 +1,6 @@
 # Medical Images Management System 
 This system is a comprehensive database of medical images and also work as A system for managing medical images and managing its processes.
 
-# Project details
-https://drive.google.com/file/d/1p6qk8lWDTXF3y_0JfCOnrKai1RmFIr3K/view?usp=sharing
-
 ## Usage
 
 ### Database Setup
